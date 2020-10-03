@@ -1,0 +1,1 @@
+{"version":3,"sources":["Home.css"],"names":[],"mappings":"AAAA,KACE,mDAA+B,CAC/B,gBAAiB,CACjB,eAAgB,CAChB,0BAA2B,CAC3B,2BACF","file":"main.f5a9058c.chunk.css","sourcesContent":[".fon {\r\n  background: url(../img/fun.png);\r\n  min-height: 100vh;\r\n  min-width: 100vw;\r\n  background-size: 100vw auto;\r\n  background-attachment: fixed;\r\n}\r\n"]}
